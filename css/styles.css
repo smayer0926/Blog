@@ -1,0 +1,22 @@
+body {
+  background: url(http://www.bipnational.net/Portals/_default/Skins/Minimalist-BioBlue-Gradient/backgrounds/SkyBlue/10_image.jpg);
+  font-style: normal;
+  font-family: fantasy;
+  text-align: center;
+  }
+.title {
+  color: #0d1c59;
+  font-size: 400%;
+  font-weight: 900;
+  padding-bottom: 50px;
+}
+.post {
+  font-size: 130%;
+  color: #0d1c59;
+}
+.me {
+  color:#1ba0a0;
+  font-size: 130%;
+  font-style: oblique;
+  padding-top: 50px;
+}
