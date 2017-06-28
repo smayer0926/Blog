@@ -20,3 +20,11 @@ body {
   font-style: oblique;
   padding-top: 50px;
 }
+.tree {
+  font-weight: 900;
+  font-size: 130%;
+}
+.grapes {
+  font-style: oblique;
+  text-decoration: underline;
+}
